@@ -50,8 +50,8 @@ The goal is to help understand Netflix’s content strategy and user preferences
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/netflix-analysis.git
-cd netflix-analysis
+git clone https://github.com/shelararti/Netflix_Movies_-_Shows_Analysis.git
+cd Netflix_Movies_-_Shows_Analysis
 ```
 
 ---
